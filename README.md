@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🏗️ Optuna + MLflow Hyperparameter Optimization Pipeline
 
 This project implements an **end-to-end machine-learning experimentation workflow** using:
@@ -432,4 +432,3 @@ Sravani Karnataka
 
 Project **successfully implemented and tested** 🎉
 "# optuna-mlflow-pipeline" 
->>>>>>> 3b90c6a49849faadace8b7b4a7abf7a3fe068746
