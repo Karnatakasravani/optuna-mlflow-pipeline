@@ -1,0 +1,15 @@
+# Python 
+__pycache__/ 
+*.pyc 
+# Virtual env 
+.venv/ 
+venv/ 
+src/.venv/ 
+# MLflow 
+mlruns/ 
+# Outputs 
+outputs/ 
+# Jupyter 
+.ipynb_checkpoints/ 
+.venv/ 
+src/.venv/ 
